@@ -103,10 +103,10 @@ EXPOSE  80
 EXPOSE  8125/udp
 
 # StatsD Management port
-EXPOSE  8126
+#EXPOSE  8126
 
 # Graphite web port
-EXPOSE 81
+#EXPOSE 81
 
 
 
